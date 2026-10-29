@@ -7,6 +7,7 @@ Two approaches are implemented and compared:
 - **Approach 1:** Classical CV — HSV/LAB color features + LBP texture → SVM + Random Forest
 - **Approach 2:** Deep Learning — MobileNetV2 transfer learning (PyTorch)
 
+## DatasetLink: https://drive.google.com/drive/folders/1XmAfp0hdoN6sC7BiccO0Kr07jsJT0rfG?usp=drive_link
 ---
 
 ## Dataset Structure
