@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+SVM (Classical),0.9798,0.9773,0.9773,0.9773
+Random Forest (Classical),0.9697,0.9664,0.9659,0.9659
+MobileNetV2 (Deep Learning),0.9798,0.9773,0.9773,0.9773
